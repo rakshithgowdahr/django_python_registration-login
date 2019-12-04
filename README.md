@@ -3,10 +3,10 @@ This is a django web application which shows the working of user registration an
 
 #requirements
 
---djando 1.10 or later
+--django 1.10 or later
 --python 3
 --bcrypt
---djando[argon2]
+--django[argon2]
 
 #installation
 
